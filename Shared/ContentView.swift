@@ -19,3 +19,6 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
+
+// 蓝色的条意味着内容还未提交，想向你确认如何操作；如果提交，则会记录
